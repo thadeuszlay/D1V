@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title></title>
+        <style>
+            body {
+                margin: 0;
+                padding: 0;
+                background-color: white;
+            }
+            div {
+                background: red; /* For browsers that do not support gradients */
+                background: -webkit-linear-gradient(red, yellow); /* For Safari 5.1 to 6.0 */
+                background: -o-linear-gradient(red, yellow); /* For Opera 11.1 to 12.0 */
+                background: -moz-linear-gradient(red, yellow); /* For Firefox 3.6 to 15 */
+                background: linear-gradient(red, yellow); /* Standard syntax */
+                margin: 0 auto;
+            }
+            .one {
+                height: 100vh;
+                width: 450px;
+                position: relative;
+            }
+            .one:before,
+            .one:after {
+                content: '';
+                position: absolute;
+                height: 80vh;
+                width: 75px;
+                top: 10vh;
+                background-color: white;
+            }
+            .one:before {
+                left: 0;
+                border-radius: 0 50px 50px 0;
+            }
+            .one:after {
+                right: 0;
+                border-radius: 50px 0 0 50px;
+            }
+        </style>
+    </head>
+    <body>
+            <div class="one"></div>
+            <div class="rec"></div>
+    </body>
+</html>

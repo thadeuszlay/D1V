@@ -1,0 +1,20 @@
+div; last background-image;                    radial-gradient(ellipse farthest-corner at 136px 146px, #503c24 6px, transparent 7px),
+                    radial-gradient(ellipse farthest-corner at 134px 144px, #503c24 6px, transparent 7px),
+                    radial-gradient(ellipse farthest-corner at 132px 142px, #503c24 6px, transparent 7px),
+                    radial-gradient(ellipse farthest-corner at 130px 140px, #503c24 6px, transparent 7px),
+                    radial-gradient(ellipse farthest-corner at 128px 138px, #503c24 6px, transparent 7px),
+                    
+                    radial-gradient(ellipse farthest-corner at 164px 146px, #503c24 1px,#ffddb9 6px, transparent 7px),
+                    radial-gradient(ellipse farthest-corner at 166px 144px, #ffddb9 6px, transparent 7px),
+                    radial-gradient(ellipse farthest-corner at 168px 142px, #ffddb9 6px, transparent 7px),
+                    radial-gradient(ellipse farthest-corner at 170px 140px, #ffddb9 6px, transparent 7px),
+                    radial-gradient(ellipse farthest-corner at 172px 138px, #ffddb9 6px, transparent 7px),
+    
+                    radial-gradient(circle at 150px 139px, #503c24 16px, transparent 7px),
+    
+    
+                    radial-gradient(circle at 138px 130px, #503c24 16px, transparent 17px),
+                    radial-gradient(circle at 162px 130px, #503c24 16px, transparent 17px),
+                    radial-gradient(circle at 143px 157.5px, #503c24 10px, transparent 11px),
+                    radial-gradient(circle at 157px 157.5px, #503c24 10px, transparent 11px);  
+
